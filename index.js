@@ -6,6 +6,6 @@ function scuberGreetingForFeet(someValue) {
       return 'I will gladly take your thirty bucks.'
   }
       else if (someValue <= 400) {
-        return 'This ones on me!'
+        return 'This one is on me!'
   }
 }
