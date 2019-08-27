@@ -5,5 +5,5 @@ function scuberGreetingForFeet(someValue) {
     else {
     return 'I will gladly take your thirty bucks'
   }
-  
+
 }
